@@ -1,0 +1,6 @@
+*.log
+*.flag
+.*
+log
+!/.gitignore
+

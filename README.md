@@ -3,10 +3,10 @@
 Historisation des indicateurs ou History of KPI
 
 ## Version
-v1.0.0 - 11/05/2023 - Version initiale
+v2.0.0 - 21/10/2024 - pattern MVC, conformité AirFlow
 
 ## Documentation
-https://si-confluence.edf.fr/display/DWW8DATAIT/T012+HOK
+
 
 # Système de Traitement et d'Historisation des Données
 
